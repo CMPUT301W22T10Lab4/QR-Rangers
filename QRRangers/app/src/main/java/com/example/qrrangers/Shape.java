@@ -3,5 +3,5 @@ package com.example.qrrangers;
 abstract class Shape {
     Integer x;
     Integer y;
-    String color = "BlueGreenRange";
+    String colour = "BlueGreenRange";
 }
