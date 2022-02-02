@@ -1,2 +1,4 @@
-package com.example.qrrangers;public class Annulus {
+package com.example.qrrangers;
+
+public class Annulus extends Shape{
 }
